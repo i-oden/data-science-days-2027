@@ -22,11 +22,12 @@ body:
       label: Theme
       description: Which theme would this project be a part of?
       options:
-        - Reproducible workflows & software development
-        - AI and automation for data science 
-        - Data interoperability and metadata harmonisation
-        - Shared computational infrastructure and technical solutions
-        - Cross-platform data integration and scientific applications
+        - "Reproducible workflows & software development"
+        - "AI and automation for data science"
+        - "Data interoperability and metadata harmonisation"
+        - "Shared computational infrastructure and technical solutions"
+        - "Cross-platform data integration and scientific applications"
+        - "I'm not sure"
     validations:
       required: true
   
